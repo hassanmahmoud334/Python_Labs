@@ -1,0 +1,6 @@
+hello@domain.com
+test.user@gmail.com
+contact@company.com
+admin@mail.org
+user1@example.com
+user1@example.eg

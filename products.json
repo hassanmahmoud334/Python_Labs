@@ -1,0 +1,12 @@
+[
+    {
+        "product": "hassan",
+        "price": 150.0,
+        "discounted": 135.0
+    },
+    {
+        "product": "mahmoud",
+        "price": 200.0,
+        "discounted": 180.0
+    }
+]
