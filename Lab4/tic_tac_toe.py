@@ -33,7 +33,7 @@ class ComputerPlayer(Player):
 
 class Board:
     def __init__(self):
-        self.__grid = [[" " for _ in range(3)] for _ in range(3)]
+        self.__grid = [[" " for _ in range(3) ] for _ in range(3)]
 
     @property
     def get_grid(self):
